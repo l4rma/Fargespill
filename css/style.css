@@ -1,0 +1,15 @@
+.spill-container {
+    width: 300px;
+    height: 100%;
+    float: left;
+}
+
+.scoreboard {
+    left: 300px;
+    height: 100%;
+    position: absolute;
+}
+
+.funnetboks:hover {
+    cursor: pointer;
+}
